@@ -11,10 +11,10 @@
 - <a href="#tinkercad">Tinkercad
 </a>
 
-- <a href="#codigo">Código
+- <a href="#código">Código
 </a>
 
-- <a href="#dependencias">Dependências
+- <a href="#dependências">Dependências
 </a>
 
 - <a href="#reproduzindo">Reproduzindo
